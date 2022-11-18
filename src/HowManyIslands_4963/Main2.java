@@ -3,7 +3,7 @@ package HowManyIslands_4963;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class Main2 {
 	
 	/*
 	 * 정사각형으로 이루어져 있는 섬과 바다 지도가 주어진다. 섬의 개수를 세는 프로그램을 작성하시오.
